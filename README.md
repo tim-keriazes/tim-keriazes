@@ -3,7 +3,7 @@
 
 
 
-![this is an image]([https://www.technologyreview.com/2021/07/28/1030233/x-rays-behind-supermassive-black-hole/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.space.com%2F15421-black-holes-facts-formation-discovery-sdcmp.html&psig=AOvVaw2oAXRuhs9JRgWHTDgZlQkM&ust=1652903228362000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCMiazMOm5_cCFQAAAAAdAAAAABAD))
+![this is an image](https://scx1.b-cdn.net/csz/news/800a/2022/black-hole-scientist-w.jpg)
 
 
 <!--
