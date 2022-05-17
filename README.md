@@ -1,4 +1,4 @@
-### Hi there 👋
+
 #### About Me:  
   - :anchor: U.S. Naval Academy, B.S. Physics
   - :metal: USMC Veteran
