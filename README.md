@@ -1,8 +1,14 @@
 ### Hi there 👋
-  
-  - :anchor: U.S. Naval Academy 2010 Grad, B.S. Physics
+#### About Me:  
+  - :anchor: U.S. Naval Academy, B.S. Physics
   - :metal: USMC Veteran
   - :alien: On the road to a career in Data Science
+  - :mushroom: Plant medicine advocate :cactus:
+#### Currently Working On:
+  - Git
+
+#### Free Your Mind
+  -Entheos Wellness
   
   
 
