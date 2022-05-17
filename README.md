@@ -7,8 +7,7 @@
 #### Currently Working On:
   - Git
 
-#### Free Your Mind
-  -Entheos Wellness
+#### Free Your Mind [Entheos Wellness](https://www.instagram.com/entheos_wellness/?hl=en).
   
   
 
