@@ -1,4 +1,13 @@
 ### Hi there 👋
+  
+  - :anchor: U.S. Naval Academy 2010 Grad, B.S. Physics
+  - :metal: USMC Veteran
+  - :alien: On the road to a career in Data Science
+  
+  
+
+
+
 
 
 
