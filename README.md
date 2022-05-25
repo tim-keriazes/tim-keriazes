@@ -6,6 +6,7 @@
   - :mushroom: Plant medicine advocate :cactus:
 #### Currently Working On:
   - Git
+  - Python
 
 #### Free Your Mind [Entheos Wellness](https://www.instagram.com/entheos_wellness/?hl=en).
   
