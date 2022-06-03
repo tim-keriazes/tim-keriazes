@@ -7,6 +7,9 @@
 #### Currently Working On:
   - Git
   - Python
+  - Data Science Libraries
+    - matplotlib
+    - numpy
 
 #### Free Your Mind [Entheos Wellness](https://www.instagram.com/entheos_wellness/?hl=en).
   
