@@ -6,6 +6,7 @@
   - :mushroom: Plant medicine advocate :cactus:
 #### Currently Working On:
   - Git
+  - SQL
   - Python
   - Data Science Libraries
     - matplotlib
