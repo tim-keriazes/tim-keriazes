@@ -11,6 +11,7 @@
   - Data Science Libraries
     - matplotlib
     - numpy
+    - pandas
 
 #### Free Your Mind [Entheos Wellness](https://www.instagram.com/entheos_wellness/?hl=en).
   
