@@ -13,6 +13,7 @@
     - numpy
     - pandas
     - seaborn
+  - Data Visualization with Tableau
 
 #### Free Your Mind [Entheos Wellness](https://www.instagram.com/entheos_wellness/?hl=en).
   
