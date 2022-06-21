@@ -14,6 +14,7 @@
     - pandas
     - seaborn
   - Data Visualization with Tableau
+  - Statistics
 
 #### Free Your Mind [Entheos Wellness](https://www.instagram.com/entheos_wellness/?hl=en).
   
