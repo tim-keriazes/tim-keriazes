@@ -15,6 +15,9 @@
     - seaborn
   - Data Visualization with Tableau
   - Statistics
+  - Machine Learning
+    - Classification Modeling
+    - Regression Modeling
 
 #### Free Your Mind [Entheos Wellness](https://www.instagram.com/entheos_wellness/?hl=en).
   
