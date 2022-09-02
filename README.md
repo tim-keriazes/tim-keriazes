@@ -15,9 +15,14 @@
     - seaborn
   - Data Visualization with Tableau
   - Statistics
+  - Anomaly Detection
+  - Regex
   - Machine Learning
     - Classification Modeling
     - Regression Modeling
+    - Clustering
+    - Time Series
+    - NLP
 
 #### Free Your Mind [Entheos Wellness](https://www.instagram.com/entheos_wellness/?hl=en).
   
