@@ -23,6 +23,9 @@
     - Clustering
     - Time Series
     - NLP
+  - Distributed Machine Learning
+    -Spark
+    
 
 #### Free Your Mind [Entheos Wellness](https://www.instagram.com/entheos_wellness/?hl=en).
   
