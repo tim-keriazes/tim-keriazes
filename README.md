@@ -4,27 +4,8 @@
   - :metal: USMC Veteran
   - :alien: On the road to a career in Data Science
   - :mushroom: Plant medicine advocate :cactus:
-#### Currently Working On:
-  - Git
-  - SQL
-  - Python
-  - Data Science Libraries
-    - matplotlib
-    - numpy
-    - pandas
-    - seaborn
-  - Data Visualization with Tableau
-  - Statistics
-  - Anomaly Detection
-  - Regex
-  - Machine Learning
-    - Classification Modeling
-    - Regression Modeling
-    - Clustering
-    - Time Series
-    - NLP
-  - Distributed Machine Learning
-    -Spark
+#### Technical Skills:
+  Python - SQL - Tableau - Matplotlib - MySQL - pandas - NumPy - Spark - Git - Applied Statistics - Machine Learning - Natural Language Processing - Data Storytelling
     
 
 #### Free Your Mind [Entheos Wellness](https://www.instagram.com/entheos_wellness/?hl=en).
