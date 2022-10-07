@@ -1,7 +1,7 @@
 
 #### About Me:  
   - :anchor: U.S. Naval Academy, B.S. Physics
-  - :metal: USMC Veteran
+  - :metal:  USMC Veteran
   - :alien: Growing My Expertise in the Field of Data Science
   - :mushroom: Plant medicine advocate :cactus:
 #### Technical Skills:
