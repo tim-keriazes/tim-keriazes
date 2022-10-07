@@ -2,7 +2,7 @@
 #### About Me:  
   - :anchor: U.S. Naval Academy, B.S. Physics
   - :metal: USMC Veteran
-  - :alien: On the road to a career in Data Science
+  - :alien: Growing My Expertise in the Field of Data Science
   - :mushroom: Plant medicine advocate :cactus:
 #### Technical Skills:
   Python - SQL - Tableau - Matplotlib - MySQL - pandas - NumPy - Spark - Git - Applied Statistics - Machine Learning - Natural Language Processing - Data Storytelling
